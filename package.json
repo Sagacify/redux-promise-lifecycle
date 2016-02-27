@@ -1,6 +1,6 @@
 {
   "name": "redux-promise-lifecycle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redux-promise-lifecycle",
   "main": "dist/index.js",
   "scripts": {
